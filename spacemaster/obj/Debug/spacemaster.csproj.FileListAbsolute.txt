@@ -1,0 +1,10 @@
+N:\VS2013\spacemaster\spacemaster\bin\Debug\spacemaster.exe.config
+H:\VS2013\spacemaster\spacemaster\bin\Debug\spacemaster.exe.config
+N:\VS2013\spacemaster\spacemaster\obj\Debug\spacemaster.exe
+N:\VS2013\spacemaster\spacemaster\obj\Debug\spacemaster.pdb
+G:\VS2013\spacemaster\spacemaster\bin\Debug\spacemaster.exe.config
+G:\VS2013\spacemaster\spacemaster\bin\Debug\spacemaster.exe
+G:\VS2013\spacemaster\spacemaster\bin\Debug\spacemaster.pdb
+G:\VS2013\spacemaster\spacemaster\obj\Debug\spacemaster.exe
+G:\VS2013\spacemaster\spacemaster\obj\Debug\spacemaster.pdb
+G:\VS2013\spacemaster\spacemaster\obj\Debug\spacemaster.csprojResolveAssemblyReference.cache
